@@ -11,7 +11,7 @@ This repository was created for statistics for data science coursework.
   src="images/2.png"
   style="display: inline-block; margin: 0 auto; max-width: 200px">
 
-## Streamlit Application ( DashBoard )
+## Streamlit Application ( Weather Dashboard )
 1) Dashboard link -> https://weather-predictor-sl-ca483e1bb0cf.herokuapp.com/
 <BR>
 
