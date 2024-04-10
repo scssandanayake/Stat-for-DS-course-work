@@ -13,7 +13,7 @@ Rainfall and Temperature predictor application.
   style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 ## Streamlit Application ( Weather Dashboard )
-1) Dashboard link -> https://weather-predictor-sl-ca483e1bb0cf.herokuapp.com/
+1) Application link -> https://weather-predictor-sl-ca483e1bb0cf.herokuapp.com/
 <BR>
 
 ## Application Reporsitory Link
