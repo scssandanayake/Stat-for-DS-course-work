@@ -31,9 +31,9 @@ Rainfall and Temperature predictor application.
 - View the seasonal forecast graphs for rainfall and temperature.
 <BR>
 
-##Instruction to view and run the jupyterNotebook
+# Instruction to view and run the Jupyter Notebook
 
-# Rainfall Prediction App
+## Rainfall Prediction Application
 
 This repository contains Jupyter Notebook files for a rainfall prediction app. The app uses time series analysis and SARIMA/SARIMAX models to predict future rainfall.
 
@@ -57,7 +57,7 @@ statsmodels==0.12.2
 1. Clone this repository to your local machine.
 2. Install the required dependencies using the following command: pip install -r requirements.txt <BR>(I have uploded the requirement.txt file already therefore you don't need to manully install each just run this code)
 
-And now you will be able to successfully run the code
+And now you will be able to successfully run the code.
 
 
 
