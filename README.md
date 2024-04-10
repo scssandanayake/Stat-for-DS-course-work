@@ -1,7 +1,8 @@
 # Stats For Data Science Course Work
 This repository was created for statistics for data science coursework.
 
-# Weather Forecaster Application ( Rainfall and Temperature )
+# Weather Forecaster Application 
+Rainfall and Temperature predictor application.
 <BR>
 
 <img
