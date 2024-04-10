@@ -42,18 +42,22 @@ This repository contains Jupyter Notebook files for a rainfall prediction app. T
 To run the Jupyter Notebook files, you need to have the following dependencies installed:
 
 
-matplotlib==3.8.2
-matplotlib-inline==0.1.6
-numpy==1.26.3
-pandas==2.2.0
-scikit-learn==1.4.1.post1
-scipy==1.12.0
-seaborn==0.13.2
+matplotlib==3.8.2<BR>
+matplotlib-inline==0.1.6<BR>
+numpy==1.26.3<BR>
+pandas==2.2.0<BR>
+scikit-learn==1.4.1.post1<BR>
+scipy==1.12.0<BR>
+seaborn==0.13.2<BR>
+statsmodels==0.12.2
+
 
 ## Installation Instructions
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using the following command: pip install -r requirements.txt (I have uploded the requirement.txt file already therefore you don't need to manully install each just run this code)
+2. Install the required dependencies using the following command: pip install -r requirements.txt <BR>(I have uploded the requirement.txt file already therefore you don't need to manully install each just run this code)
+
+And now you will be able to successfully run the code
 
 
 
