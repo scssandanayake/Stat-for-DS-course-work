@@ -55,7 +55,7 @@ statsmodels==0.12.2
 ## Installation Instructions
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using the following command: pip install -r requirements.txt <BR>(I have uploded the requirement.txt file already therefore you don't need to manully install each just run this code)
+2. Install the required dependencies using the following command: **pip install -r requirements.txt** <BR>(I have uploded the requirement.txt file already therefore you don't need to manully install each just run this code).
 
 And now you will be able to successfully run the code.
 
