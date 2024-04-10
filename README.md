@@ -1,4 +1,4 @@
-# Stats For Data Science Course Work
+# Stats For Data Science Coursework
 This repository was created for statistics for data science coursework.
 
 # Weather Forecaster 
